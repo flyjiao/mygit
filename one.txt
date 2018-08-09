@@ -8,3 +8,4 @@ aaaaaa
 >>>>>>> feature1
 ababab
 victory  j
+bangbang
